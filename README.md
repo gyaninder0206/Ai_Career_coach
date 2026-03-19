@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Career Coach (React + Vite + MERN Backend)
 
 This repository contains:
@@ -50,3 +51,6 @@ npm run preview
 
 Frontend uses:
 - `VITE_API_URL=http://localhost:5000/api`
+=======
+# Ai_Career_coach
+>>>>>>> 28cb461ff7ae241cdaf59ece13fcdd86ed89c4cc
