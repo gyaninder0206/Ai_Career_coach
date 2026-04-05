@@ -43,7 +43,7 @@ export default function HeroSection() {
             </Button>
           </Link>
           <a
-            href="/Neon%20Glitch%20Teaser%20-%20SENSAI%20Coming%20Soon%20Video%20Page.png"
+            href="/CareerAI%20Demo%20Preview.png"
             target="_blank"
             rel="noreferrer"
           >

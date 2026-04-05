@@ -42,8 +42,8 @@ export default function Header() {
       <nav className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link to="/" className="inline-flex items-center">
           <img
-            src="/logo.png"
-            alt="Sensai Logo"
+            src="/logo-carrerai.png"
+            alt="CarrerAI Logo"
             width={200}
             height={60}
             className="h-12 w-auto object-contain py-1"

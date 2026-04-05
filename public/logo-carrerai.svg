@@ -1,0 +1,10 @@
+<svg width="440" height="120" viewBox="0 0 440 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="440" height="120" rx="20" fill="#0B1220"/>
+  <circle cx="58" cy="60" r="30" fill="#22C55E" opacity="0.2"/>
+  <path d="M42 60C42 51.2 49.2 44 58 44C66.8 44 74 51.2 74 60C74 68.8 66.8 76 58 76" stroke="#22C55E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M58 52V68" stroke="#22C55E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M50 60H66" stroke="#22C55E" stroke-width="6" stroke-linecap="round"/>
+  <text x="100" y="72" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="0.5">
+    CarrerAI
+  </text>
+</svg>
